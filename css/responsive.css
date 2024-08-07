@@ -1,0 +1,171 @@
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+    .nav-link {
+        padding-right: 0px;
+        padding-bottom: 20px;
+    }
+
+    .project-lunch::before {
+        right: unset;
+        left: 0;
+    }
+  }
+  
+  @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .nav-link {
+        padding-right: 0px;
+        padding-bottom: 20px;
+    }
+
+    .new-business{
+        width: 49.333333%;
+    }
+
+    
+  }
+
+
+
+@media (max-width: 576px) {
+
+    h1 {
+        font-size: 40px;
+        line-height: normal;
+    }
+
+    h3 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+
+    .banner {
+        padding-top: 100px;
+    }
+
+    .banner-img {
+        top: -40px;
+    }
+
+    .banner-box {
+        top: -280px;
+    }
+
+    .nav-link {
+        padding-right: 0px;
+        padding-bottom: 20px;
+    }
+
+    .navbar-collapse {
+        padding-top: 25px;
+        padding-left: 20px;
+    }
+
+    .rotate-image {
+        max-width: 320px;
+    }
+
+    .who-we-are {
+        padding-top: 0;
+    }
+
+    .innovation p {
+        padding-bottom: 0px;
+    }
+
+    .our-work {
+        padding: 70px 0;
+    }
+
+    .services-text {
+        padding: 80px 10px;
+    }
+
+    .shape-img {
+        top: 90px;
+        z-index: -1;
+    }
+
+    .studio {
+        overflow-x: hidden;
+    }
+
+    .footer-content {
+        padding-top: 55px;
+    }
+
+    .splide__arrow {
+        top: 35%;
+    }
+
+    .splide__arrow--prev {
+        left: 3px;
+    }
+
+    .splide__arrow--next {
+        right: 0;
+    }
+
+    .work-design-contain {
+        padding: 110px 0;
+    }
+
+    .work-list {
+        flex-direction: column;
+        row-gap: 45px;
+    }
+
+    .work-list-card {
+        width: 100%;
+    }
+
+    .work-list-card:nth-child(2n) {
+        transform: translateY(0);
+    }
+
+    .project-lunch::before {
+        right: unset;
+        left: 0;
+    }
+
+    .service-text {
+        margin: 0;
+    }
+
+    .innovations {
+        width: 100%;
+    }
+
+    .insight-banner img {
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .work-case {
+        padding-bottom: 120px;
+    }
+
+    .spotify img {
+        height: 400px;
+    }
+
+    .contact-banner h1 {
+        padding-top: 70px;
+    }
+
+    .great-work{
+        width: 100%;
+        height: 265px;
+    }
+
+    .text-wrapper{
+        padding-top: 0;
+    }
+
+    .work-list-card .content .title a{
+        font-size: 36px;
+        line-height: 45px;
+    }
+
+    .navbar-nav .dropdown-menu{
+        margin-bottom: 20px;
+    }
+}
